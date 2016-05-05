@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextoaVoz</string>
+    <string name="appLabel">TextoaVoz</string>
+    <string name="hintEditTextWords">Editar</string>
+    <string name="strBtnEnglish">Ingles</string>
+    <string name="strBtnSpanish">Español</string>
+
+
+
+</resources>
